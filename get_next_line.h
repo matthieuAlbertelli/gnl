@@ -6,7 +6,7 @@
 /*   By: malberte <malberte@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/05/02 08:05:38 by malberte          #+#    #+#             */
-/*   Updated: 2018/05/02 11:10:54 by malberte         ###   ########.fr       */
+/*   Updated: 2018/05/03 01:03:13 by malberte         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,7 +15,7 @@
 
 # include <stdlib.h>
 
-# define BUFF_SIZE 32
+# define BUFF_SIZE 7
 
 typedef struct  s_file_reader
 {
